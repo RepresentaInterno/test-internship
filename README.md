@@ -1,4 +1,4 @@
-# 🎯 Teste Técnico - Estágio em Desenvolvimento de Sistemas
+# 🎯 Teste Técnico - Estágio em Desenvolvimento de Sistemas para 2025
 
 ## 📝 Descrição
 Bem-vindo(a) ao nosso processo seletivo para a vaga de estágio em desenvolvimento! Este teste foi elaborado para avaliar suas habilidades técnicas e criativas. Você deverá escolher **apenas um** dos projetos propostos abaixo.
@@ -65,7 +65,6 @@ Desenvolvimento de uma API para gerenciamento de blog com arquitetura moderna.
    - Link do deploy (se aplicável)
 
 ## ⏰ Prazo
-- Prazo sugerido: 1 semana
 - Entregue quando sentir que o projeto está adequado
 
 ## 💡 Observações Importantes
