@@ -60,7 +60,9 @@ Desenvolvimento de uma API para gerenciamento de blog com arquitetura moderna.
 ## 📬 Entrega
 1. Desenvolva o projeto escolhido
 2. Realize o deploy (opcional)
-3. Envie para afonso.lagedo@gmail.com:
+3. Envie para o e-mail contato@representa.online:
+   - Nome completo
+   - Módulo ou Série
    - Link do repositório GitLab
    - Link do deploy (se aplicável)
 
