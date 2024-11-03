@@ -1,4 +1,4 @@
-# 🎯 Teste Técnico - Estágio em Desenvolvimento de Sistemas 2025
+# 🎯 Teste Técnico - Estágio em Desenvolvimento de Sistemas para 2025
 
 ## 📝 Descrição
 Bem-vindo(a) ao nosso processo seletivo para a vaga de estágio em desenvolvimento! Este teste foi elaborado para avaliar suas habilidades técnicas e criativas. Você deverá escolher **apenas um** dos projetos propostos abaixo.
