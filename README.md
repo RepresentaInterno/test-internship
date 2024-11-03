@@ -22,7 +22,7 @@ Desenvolvimento de uma landing page moderna e responsiva utilizando tecnologias 
 - Footer
 
 ### 2. 🔧 API REST - Sistema de Chamados
-Desenvolvimento de uma API para gerenciamento de blog com arquitetura moderna.
+Desenvolvimento de uma API para gerenciamento de chamados com arquitetura moderna.
 
 #### ⚙️ Requisitos Técnicos
 - Banco de dados NoSQL ( recomendado MongoDb )
