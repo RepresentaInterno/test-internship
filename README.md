@@ -21,7 +21,7 @@ Desenvolvimento de uma landing page moderna e responsiva utilizando tecnologias 
 - Formulário de contato ( funcional se possível ) 
 - Footer
 
-### 2. 🔧 API REST - Sistema de Blog
+### 2. 🔧 API REST - Sistema de Chamados
 Desenvolvimento de uma API para gerenciamento de blog com arquitetura moderna.
 
 #### ⚙️ Requisitos Técnicos
@@ -32,8 +32,8 @@ Desenvolvimento de uma API para gerenciamento de blog com arquitetura moderna.
 
 #### 🔄 Funcionalidades CRUD
 - Usuários
-- Categorias
-- Posts
+- Chamados
+- ( É livre a adição de mais entidades, entretanto, não se deve fugir do escopo do sistema )
 
 ## 📋 Requisitos de Desenvolvimento
 
