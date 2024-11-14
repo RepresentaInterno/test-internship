@@ -68,6 +68,7 @@ Desenvolvimento de uma API para gerenciamento de chamados com arquitetura modern
 
 ## ⏰ Prazo
 - Entregue quando sentir que o projeto está adequado
+- E entregue até esse ano 
 
 ## 💡 Observações Importantes
 - Priorize código limpo e funcional
