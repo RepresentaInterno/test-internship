@@ -60,7 +60,7 @@ Desenvolvimento de uma API para gerenciamento de chamados com arquitetura modern
 ## 📬 Entrega
 1. Desenvolva o projeto escolhido
 2. Realize o deploy (opcional)
-3. Envie para o e-mail contato@representa.online:
+3. Envie para o e-mail joaopaulodiasventura@gmail.com:
    - Nome completo
    - Módulo ou Série
    - Link do repositório GitLab
@@ -68,7 +68,7 @@ Desenvolvimento de uma API para gerenciamento de chamados com arquitetura modern
 
 ## ⏰ Prazo
 - Entregue quando sentir que o projeto está adequado
-- E entregue até esse ano 
+- O prazo de entrega é até o 5 de Janeiro de 2025
 
 ## 💡 Observações Importantes
 - Priorize código limpo e funcional
